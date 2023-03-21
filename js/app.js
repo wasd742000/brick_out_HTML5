@@ -577,7 +577,7 @@ room.score = {
         stage: new Container(),
         base: {
             completion: 100000,
-            speed: 500,
+            speed: 300,
             time: 50000,
             difficulty: 1000
         },
